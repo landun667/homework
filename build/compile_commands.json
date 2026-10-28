@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cui/homework/build",
+  "command": "/usr/bin/c++  -I/home/cui/homework/include -g -std=gnu++11 -o CMakeFiles/degree.dir/src/main.cpp.o -c /home/cui/homework/src/main.cpp",
+  "file": "/home/cui/homework/src/main.cpp"
+},
+{
+  "directory": "/home/cui/homework/build",
+  "command": "/usr/bin/c++  -I/home/cui/homework/include -g -std=gnu++11 -o CMakeFiles/degree.dir/src/Angle.cpp.o -c /home/cui/homework/src/Angle.cpp",
+  "file": "/home/cui/homework/src/Angle.cpp"
+}
+]
